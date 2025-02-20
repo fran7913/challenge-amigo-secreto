@@ -1,6 +1,6 @@
 <h1 align="center"> Challenge Amigo Secreto </h1>
 
-##Índice 
+<h1>Índice</h1>
 
 Juego Amigo Secreto![image](https://github.com/user-attachments/assets/de3eced1-1f4b-40c1-b89f-9c48ba8cc056)
 
