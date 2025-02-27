@@ -49,14 +49,43 @@ el sistema designa un nombre aleatorio a cada participante y para que no se repi
 
 *[Acceso al proyecto](#acceso-proyecto)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+https://github.com/fran7913/challenge-amigo-secreto.git 
+
+
+*[Tecnologías utilizadas](#tecnologías-utilizadas)  
+
+HTML: HTML (HyperText Markup Language) es el lenguaje de marcado utilizado para crear y estructurar el contenido de páginas web.
+
+CSS: CSS (Cascading Style Sheets) es un lenguaje de hojas de estilo que se utiliza para dar formato y diseño a las páginas web creadas con HTML.
+
+JavaScript: lenguaje de programación que se utiliza para crear páginas web interactivas. en esta caso para manipulación del DOM, validación de datos y generación aleatoria de amigos secretos. 
+
+
 
 *[Personas Contribuyentes](#personas-contribuyentes)
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
+Francisco Javier Mena Gtierrez
+
 * [Licencia](#licencia)
 
 *[Conclusión](#conclusión)
+
+Este proyecto de "Amigo Secreto" ha facilitado la aplicación de conceptos fundamentales de JavaScript, como la manipulación del DOM, La comprobacion de informacion y la generacion aleatoria de datos.
+
+Mediante funciones organizadas, el sistema asegura que: Se registren y almacenen los nombres sin repeticiones. Se visualiza una lista dinámica de participantes en tiempo real. Se ejecutará un sorteo aleatorio garantizando la asignacion de un amigo secreto sin que se repita un nombre
+
+Asimismo, se han implementado validaciones clave, como impedir ingresos vacios y evitar el sorteo si no hay suficientes nombres de participantes
+
+Este proyecto no solo logra su objetivo de distribuir amigos de manera equitativa, sino que también sirve como una excelente base para seguir explorando la interactividad web y mejorar la experiencia del usuario.
+
+
+
+
+
+
+
+
 
 
